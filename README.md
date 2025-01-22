@@ -1,2 +1,2 @@
 # csws-week1
-github intro
+Week 1 lab
